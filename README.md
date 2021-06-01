@@ -4,4 +4,4 @@ We will develop a todo app which you can list down things you need to do today! 
 
 The application will be the like one below. In this repository you will have the starter pack. Let get coding! 💪🏾
 
-![](/todo.png?raw=true)
+![](/todo.PNG?raw=true)
